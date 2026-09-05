@@ -1,0 +1,12 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="Container" style="flex-grow: 1; justify-content: center; align-self: flex-start; align-items: flex-start; flex-wrap: wrap; flex-direction: row; flex-basis: auto;">
+        <ui:Button text="Restart" parse-escape-sequences="true" display-tooltip-when-elided="true" name="RestartBtn" enable-rich-text="false" style="height: 25px; width: 73px; -unity-text-align: middle-left; position: relative; top: auto; left: auto; flex-direction: column; flex-basis: auto; align-items: auto; align-self: auto; margin-right: 8px; margin-left: 8px;" />
+        <ui:VisualElement name="Stats" style="flex-grow: 1; height: auto; width: auto; align-items: auto; margin-right: 8px; margin-left: 8px; -unity-text-align: upper-left; justify-content: space-around; align-self: auto; flex-direction: row; flex-wrap: wrap;">
+            <ui:Label tabindex="-1" text="Deaths: 0" parse-escape-sequences="true" display-tooltip-when-elided="true" name="deathCount" style="height: 25px; width: 80px; position: relative; top: auto; left: auto; -unity-font-style: bold; color: rgb(255, 0, 0); -unity-text-outline-width: 0; text-shadow: 1px 1px 0 rgb(0, 0, 0);" />
+            <ui:Label tabindex="-1" text="Level 0" parse-escape-sequences="true" display-tooltip-when-elided="true" name="level" style="-unity-font-style: bold;" />
+            <ui:Label tabindex="-1" text="Jumps: 0" parse-escape-sequences="true" display-tooltip-when-elided="true" name="jumpCount" style="height: 25px; width: 80px; position: relative; top: auto; left: auto; color: rgb(0, 255, 0); -unity-font-style: bold; text-shadow: 1px 1px 0 rgb(0, 0, 0);" />
+        </ui:VisualElement>
+        <ui:Label tabindex="-1" text="1:00" parse-escape-sequences="true" display-tooltip-when-elided="true" name="timer" style="height: 25px; width: 40px; position: relative; top: auto; left: auto; align-self: auto; -unity-text-align: upper-left; align-items: auto; margin-left: 8px; margin-right: 8px;" />
+        <ui:Button text="Pause" parse-escape-sequences="true" display-tooltip-when-elided="true" name="PauseBtn" style="height: 25px; width: 64px; position: relative; align-self: auto; align-items: auto; margin-right: 8px; margin-left: 8px;" />
+    </ui:VisualElement>
+</ui:UXML>
