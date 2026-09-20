@@ -14,7 +14,7 @@ public static class GameManager {
         {2, new Dictionary<string, int>{{"unlocked", 0}, {"time", 40}, {"jumpsR", -1}, {"deathsR", -1}, {"timeR", -1}}},
         {3, new Dictionary<string, int>{{"unlocked", 0}, {"time", 50}, {"jumpsR", -1}, {"deathsR", -1}, {"timeR", -1}}},
         {4, new Dictionary<string, int>{{"unlocked", 0}, {"time", 60}, {"jumpsR", -1}, {"deathsR", -1}, {"timeR", -1}}},
-        {5, new Dictionary<string, int>{{"unlocked", 0}, {"time", 70}, {"jumpsR", -1}, {"deathsR", -1}, {"timeR", -1}}},
+        {5, new Dictionary<string, int>{{"unlocked", 0}, {"time", 90}, {"jumpsR", -1}, {"deathsR", -1}, {"timeR", -1}}},
     };
 
     public static void ResetCurrentStats(){
