@@ -31,15 +31,15 @@ Open the **full Unity project** in a compatible Unity Editor version and play th
 
 ## Gameplay Previews
 
-<img src="game-images/first_frame.jpg" width="300">
-<img src="game-images/output_1.jpg" width="300">
-<img src="game-images/output_2.jpg" width="300">
-<img src="game-images/output_3.jpg" width="300">
-<img src="game-images/output_4.jpg" width="300">
-<img src="game-images/output_5.jpg" width="300">
-<img src="game-images/output_6.jpg" width="300">
-<img src="game-images/output_7.jpg" width="300">
-<img src="game-images/output_8.jpg" width="300">
-<img src="game-images/frame_0223.jpg" width="300">
+<img src="game-images/first_frame.jpg" width="250">
+<img src="game-images/output_1.jpg" width="250">
+<img src="game-images/output_2.jpg" width="250">
+<img src="game-images/output_3.jpg" width="250">
+<img src="game-images/output_4.jpg" width="250">
+<img src="game-images/output_5.jpg" width="250">
+<img src="game-images/output_6.jpg" width="250">
+<img src="game-images/output_7.jpg" width="250">
+<img src="game-images/output_8.jpg" width="250">
+<img src="game-images/frame_0223.jpg" width="250">
 
 [Watch Gameplay Video](https://drive.google.com/file/d/1D_0W4Z6e-pJSCE1W64U3XJELBZjO-cpa/view?usp=sharing)
